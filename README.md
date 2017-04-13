@@ -1,6 +1,6 @@
 # Momment-Grabber-Backend
 NYU Tondon CS-GY9223 Cloud Computing Final Project
-### Momment Grabber is a photo sharing mobile application. Sometimes people come into other's photos when they are not aware of it. By using this App people can search for photos where they show up. For details, please check the final report of this project: https://docs.google.com/document/d/1X5T3kvnGgvXfyT6ZBAQfABO8peGpuOvWweIRtEH49SY/edit?usp=sharing       
+### Momment Grabber is a photo sharing mobile application. Sometimes people come into other's photos when they are not aware of it. By using this APP people can search for photos where they show up. For details, please check the final report of this project: https://docs.google.com/document/d/1X5T3kvnGgvXfyT6ZBAQfABO8peGpuOvWweIRtEH49SY/edit?usp=sharing       
 
 ##This is the backend codes of the App 
 
